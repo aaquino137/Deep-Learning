@@ -3,7 +3,7 @@ Neural Networks(NN)
 
 Format images are included in thee report to display NN correction. 
 
-Below is an image ofhow the data was restructered to include the 'NAME column that had initially been dropped
+Below is an image of how the data was restructered to include the 'NAME' column that had initially been dropped
 ![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/129812a1-058c-47ce-9a79-95930f93625c)
 ![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/24a42c7c-fda6-4e36-a167-7c9b7bb0a0ab)
 
