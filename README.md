@@ -1,6 +1,8 @@
 # Deep-Learning
 Neural Networks(NN)
 
+The purpose of using this type of model on the datset is to make predictions that we otherwise wouldn't be able to make as efficiently using regular methods.
+
 Format images are included in thee report to display NN correction. 
 
 Below is an image of how the data was restructered to include the 'NAME' column that had initially been dropped
