@@ -11,7 +11,7 @@ Afterwards, the Neural Network was changed for optimization purposes
 ![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/98738500-491a-4619-94fb-ac9423e50e7e)
 ![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/73c899a3-4ea2-4cc2-a023-645a3e3fa407)
 
-Below is an example of a failed attempt tp produce a NN with an accuracy score of 75%.
+Below is an example of an attempt that was unable to produce a NN with an accuracy score of 75%.
 ![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/7f35ff14-382a-48dd-bc5d-580b69eab724)
 
 
