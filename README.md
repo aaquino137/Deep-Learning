@@ -7,7 +7,7 @@ Below is an image of how the data was restructered to include the 'NAME' column 
 ![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/129812a1-058c-47ce-9a79-95930f93625c)
 ![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/24a42c7c-fda6-4e36-a167-7c9b7bb0a0ab)
 
-Afterward, the Neural Network was changed for optimization purposes
+Afterwards, the Neural Network was changed for optimization purposes
 ![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/98738500-491a-4619-94fb-ac9423e50e7e)
 ![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/73c899a3-4ea2-4cc2-a023-645a3e3fa407)
 
