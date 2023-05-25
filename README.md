@@ -8,7 +8,7 @@ Below is an image of how the data was restructered to include the 'NAME' column 
 ![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/24a42c7c-fda6-4e36-a167-7c9b7bb0a0ab)
 
 Afterwards, the Neural Network was changed for optimization purposes
-![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/98738500-491a-4619-94fb-ac9423e50e7e)
+![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/52b265c0-58e0-40c9-841c-4fdcb9281cf8)
 ![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/73c899a3-4ea2-4cc2-a023-645a3e3fa407)
 
 Below is an example of an attempt that was unable to produce a NN with an accuracy score of 75%.
