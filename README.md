@@ -1,10 +1,29 @@
 # Deep-Learning
-Neural Networks
+Neural Networks(NN)
 
-Format images in the report so that they display correction (2)
+Format images are included in thee report to display NN correction. 
+
+Below is an image ofhow the data was restructered to include the 'NAME column that had initially been dropped
+![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/129812a1-058c-47ce-9a79-95930f93625c)
+![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/24a42c7c-fda6-4e36-a167-7c9b7bb0a0ab)
+
+Afterward, the Neural Network was changed for optiization purposes
+![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/98738500-491a-4619-94fb-ac9423e50e7e)
+![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/73c899a3-4ea2-4cc2-a023-645a3e3fa407)
+
+Below is an example of a failed attempt tp produce a NN with an accuracy score of 75%.
+![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/7f35ff14-382a-48dd-bc5d-580b69eab724)
 
 
-Explain the purpose of the analysis (4)
+![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/99f44ac7-9a0f-4ec2-810f-7b7bb46b135f)
+
+
+
+![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/e317860e-2fd6-49eb-ae5e-dcd28866d6e3)
+
+![image](https://github.com/aaquino137/Deep-Learning/assets/120290921/2d1c50cc-0b47-400a-b615-8fff4409ea47)
+
+
 
 Data Preprocessing
 
